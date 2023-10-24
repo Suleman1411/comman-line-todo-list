@@ -14,7 +14,7 @@ A simple command-line interface (CLI) application for managing your to-do list. 
 To use this application, make sure you have Node.js installed on your system. If not, you can download it [here](https://nodejs.org/).
 
 1. Clone this repository to your local machine:
-   ```bash
+   ```
    git clone https://github.com/your-username/todo-list-cli.git
    ```
 
