@@ -15,7 +15,7 @@ To use this application, make sure you have Node.js installed on your system. If
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/todo-list-cli.git
+   git clone git@github.com:Suleman1411/comman-line-todo-list.git
    ```
 
 2. Change to the project directory:
