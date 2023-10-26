@@ -32,7 +32,7 @@ To use this application, make sure you have Node.js installed on your system. If
 
 1. Run the application by executing the following command in your terminal:
    ```bash
-   npm start
+   node index.js
    ```
 
 2. Follow the on-screen prompts to add your to-do items. You can continue adding more items until you decide to stop.
